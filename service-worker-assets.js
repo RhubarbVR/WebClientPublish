@@ -37,7 +37,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-20zXfpSjWkXjAm10HqWaN+jfOw8rYY8OZL4aHMXaG0Y=",
+      "hash": "sha256-LX5Z2Abxhvjbwo7NwjP8paPnD\/WzRlp1Q2cRWLbOBEA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -157,15 +157,15 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-KTBjj9FCOS4B6xN0kkp9fGdY0d6Qhw0oz1ohb20FAUM=",
+      "hash": "sha256-R+G0Ezl\/iP3rYfCww5sSWGRyiIE3nHRoJizyq1OUB4M=",
       "url": "_framework\/Rhubarb_Shared.dll"
     },
     {
-      "hash": "sha256-m6COl2yQDiVrB+6Oe2xfwTV15B6DR01zSQWOmIwg7wI=",
+      "hash": "sha256-+ptvAv0a\/Jq2sYZgrWJGCrob5UYjUG7CdswCt10f1kU=",
       "url": "_framework\/Rhubarb_Web.dll"
     },
     {
-      "hash": "sha256-No5PuoNMMXuippVsYTqNwWamjwYHgjU9PxPJu1MABV0=",
+      "hash": "sha256-lNpGKuOG\/uqQ2EQh1F5hSoOmxYALfK1QxRFSIVdt2N4=",
       "url": "_framework\/RhubarbCloudClient.dll"
     },
     {
@@ -365,11 +365,11 @@
       "url": "_framework\/System.Threading.ThreadPool.dll"
     },
     {
-      "hash": "sha256-nDChldMIBouYvbXmQ2uuKglXwvppOyrMsWup43jYAXA=",
+      "hash": "sha256-lBAGtkOidbfDYYaUvIYaqTiwuDqNvkLXQ++HmfmoDf4=",
       "url": "_framework\/dotnet.6.0.9.u0pn21tn9z.js"
     },
     {
-      "hash": "sha256-WKjEx5LqZdjWuqGPmKCmx4p56Q714PzxmPigP6KpjAQ=",
+      "hash": "sha256-PrpJQodrx40ipKKDk26tmQpVZgXV3UTZgwAxztIdQ1A=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -461,5 +461,5 @@
       "url": "_content\/Rhubarb_Shared\/Rhubarb.svg"
     }
   ],
-  "version": "wPGNfwWU"
+  "version": "esaJJUs4"
 };
