@@ -5,7 +5,11 @@
       "url": "Rhubarb_Web.styles.css"
     },
     {
-      "hash": "sha256-jw\/h94K9TtLa0K5GUTHB7wTDOY1vOOqS4Llx+6ngjR0=",
+      "hash": "sha256-tfpqjifkoCv9IN9eqCPZwyVvyLYqnsiaYbQmZ9Tsu5o=",
+      "url": "404.html"
+    },
+    {
+      "hash": "sha256-tfpqjifkoCv9IN9eqCPZwyVvyLYqnsiaYbQmZ9Tsu5o=",
       "url": "index.html"
     },
     {
@@ -457,5 +461,5 @@
       "url": "_content\/Rhubarb_Shared\/Rhubarb.svg"
     }
   ],
-  "version": "rfZE4BOK"
+  "version": "PoHCZS8C"
 };
