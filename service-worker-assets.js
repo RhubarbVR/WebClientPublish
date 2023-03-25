@@ -445,15 +445,15 @@
       "url": "_content\/Rhubarb_Shared\/darkreader.js"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-p5ZnH9OHiZdEm+hZfhRr1MZJC6My9+HMSSUHCWlaVcc=",
       "url": "_content\/Rhubarb_Shared\/favicon.ico"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-+Wkn999inQISGzNZuHr8h6cSGXGppR6yvyQ6yfViscA=",
       "url": "_content\/Rhubarb_Shared\/icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-PDqrcYNt5Zre4bTXjBW1qAGNJpP6oVp2AXEddtn74WI=",
       "url": "_content\/Rhubarb_Shared\/icon-512.png"
     },
     {
@@ -461,5 +461,5 @@
       "url": "_content\/Rhubarb_Shared\/Rhubarb.svg"
     }
   ],
-  "version": "PoHCZS8C"
+  "version": "s4tN398u"
 };
